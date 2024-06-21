@@ -1,0 +1,10 @@
+[package]
+name = "findme"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+clap = "3.0"
+walkdir = "2.3"
+fuzzy-matcher = "0.3.7"
+dirs = "3.0"
